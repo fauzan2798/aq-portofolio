@@ -19,7 +19,9 @@
   --color-lightgrey: #978580;
   --color-darkgrey: #3f4441;
 
-  --shadow-cyanshadow: 0 0 20px 0 rgb(94 206 220 / 0.5);
+  --shadow-cyanShadow: 0 0 20px 0 rgb(94 206 220 / 0.5);
+  --shadow-cyanMediumShadow: 10px 10px 200px 150px rgb(94 206 220/0.5);
+  --shadow-orangeMediumShadow: 10px 10px 200px 150px rgb(240 169 70/0.5);
 
   --breakpoint-sm: 350px;
   --breakpoint-md: 768px;
