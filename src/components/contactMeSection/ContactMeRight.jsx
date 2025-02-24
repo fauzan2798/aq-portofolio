@@ -3,7 +3,7 @@ import ContactSocial from "./ContactSocial";
 
 function ContactMeRight() {
   return (
-    <div className="flex flex-col items-center jusitfy-center gap-12">
+    <div className="flex flex-col items-center justify-center gap-12">
       <img
         src="../../../public/images/email-image.png"
         alt=""
